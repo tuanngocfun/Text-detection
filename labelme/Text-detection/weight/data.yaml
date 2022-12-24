@@ -1,0 +1,78 @@
+names:
+- '-'
+- '0'
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- '9'
+- A
+- B
+- C
+- D
+- E
+- F
+- G
+- H
+- I
+- J
+- K
+- L
+- M
+- N
+- O
+- P
+- Q
+- R
+- S
+- T
+- U
+- V
+- W
+- X
+- Y
+- Z
+- _
+- a
+- b
+- c
+- comma
+- d
+- dot
+- e
+- f
+- g
+- h
+- i
+- j
+- k
+- l
+- m
+- n
+- o
+- p
+- q
+- r
+- s
+- t
+- u
+- v
+- w
+- x
+- y
+- z
+nc: 66
+path: /home/ngoc/Documents/third-yr-in-uni/project-yolo/labelme/weight
+roboflow:
+  license: CC BY 4.0
+  project: seriously
+  url: https://universe.roboflow.com/alphabettraining/seriously/dataset/2
+  version: 2
+  workspace: alphabettraining
+test: ../test/images
+train: ../train/images
+val: ../valid/images
